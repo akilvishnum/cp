@@ -1,1 +1,0 @@
-Tried to convert decimal to binary format and find the number of locations in which the binary digit vary
